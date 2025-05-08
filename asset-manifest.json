@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movie-ranker/static/css/main.f855e6bc.css",
+    "main.js": "/movie-ranker/static/js/main.7bcb5137.js",
+    "static/js/453.1a0b41e2.chunk.js": "/movie-ranker/static/js/453.1a0b41e2.chunk.js",
+    "static/media/logo.svg": "/movie-ranker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/movie-ranker/index.html",
+    "main.f855e6bc.css.map": "/movie-ranker/static/css/main.f855e6bc.css.map",
+    "main.7bcb5137.js.map": "/movie-ranker/static/js/main.7bcb5137.js.map",
+    "453.1a0b41e2.chunk.js.map": "/movie-ranker/static/js/453.1a0b41e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7bcb5137.js"
+  ]
+}
