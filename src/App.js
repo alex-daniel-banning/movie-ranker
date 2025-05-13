@@ -1,25 +1,12 @@
-import logo from './logo.svg';
+import MovieCard from './MovieCard'
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+    return (
+        <div className="App">
+            <MovieCard title="The Big Short" year="2015" url="https://boxd.it/ajZw" />
+        </div>
+    );
+};
 
 export default App;
